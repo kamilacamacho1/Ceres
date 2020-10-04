@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:maps="clr-namespace:Xamarin.Forms.GoogleMaps;assembly=Xamarin.Forms.GoogleMaps"
+    mc:Ignorable="d"
+    x:Class="GoogleMaps.MainPage">
+    <ContentPage.Content>
+        <Grid HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+
+            <maps:Map x:Name="map"
+                      InitialCameraUpdate="64.797849,-165.787822"
+                      VerticalOptions="FillAndExpand">
+            </maps:Map>
+            <Button Grid.Row="0" 
+                    Text="Personajes" 
+                    BorderColor="#2b3c3c" 
+                    BorderWidth="1" 
+                    FontAttributes="Bold"
+                    BackgroundColor="#3b83bd" 
+                    BorderRadius="35" 
+                    TextColor="White" 
+                    HorizontalOptions="End" 
+                    WidthRequest="160" 
+                    HeightRequest="70" Margin="0,0,20,22" VerticalOptions="End"/>
+
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
