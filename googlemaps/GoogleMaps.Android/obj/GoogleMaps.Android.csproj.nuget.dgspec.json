@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Maria Camila Camacho\\Downloads\\xamarin-forms-googlemaps-master\\GoogleMaps.Android\\GoogleMaps.Android.csproj": {}
+    "C:\\Users\\Maria Camila Camacho\\Documents\\GitHub\\Ceres\\googlemaps\\GoogleMaps.Android\\GoogleMaps.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Maria Camila Camacho\\Downloads\\xamarin-forms-googlemaps-master\\GoogleMaps.Android\\GoogleMaps.Android.csproj": {
+    "C:\\Users\\Maria Camila Camacho\\Documents\\GitHub\\Ceres\\googlemaps\\GoogleMaps.Android\\GoogleMaps.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Maria Camila Camacho\\Downloads\\xamarin-forms-googlemaps-master\\GoogleMaps.Android\\GoogleMaps.Android.csproj",
+        "projectUniqueName": "C:\\Users\\Maria Camila Camacho\\Documents\\GitHub\\Ceres\\googlemaps\\GoogleMaps.Android\\GoogleMaps.Android.csproj",
         "projectName": "GoogleMaps.Android",
-        "projectPath": "C:\\Users\\Maria Camila Camacho\\Downloads\\xamarin-forms-googlemaps-master\\GoogleMaps.Android\\GoogleMaps.Android.csproj",
+        "projectPath": "C:\\Users\\Maria Camila Camacho\\Documents\\GitHub\\Ceres\\googlemaps\\GoogleMaps.Android\\GoogleMaps.Android.csproj",
         "packagesPath": "C:\\Users\\Maria Camila Camacho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Maria Camila Camacho\\Downloads\\xamarin-forms-googlemaps-master\\GoogleMaps.Android\\obj\\",
+        "outputPath": "C:\\Users\\Maria Camila Camacho\\Documents\\GitHub\\Ceres\\googlemaps\\GoogleMaps.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Users\\Maria Camila Camacho\\Downloads\\xamarin-forms-googlemaps-master\\GoogleMaps\\GoogleMaps.csproj": {
-                "projectPath": "C:\\Users\\Maria Camila Camacho\\Downloads\\xamarin-forms-googlemaps-master\\GoogleMaps\\GoogleMaps.csproj"
+              "C:\\Users\\Maria Camila Camacho\\Documents\\GitHub\\Ceres\\googlemaps\\GoogleMaps\\GoogleMaps.csproj": {
+                "projectPath": "C:\\Users\\Maria Camila Camacho\\Documents\\GitHub\\Ceres\\googlemaps\\GoogleMaps\\GoogleMaps.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\Maria Camila Camacho\\Downloads\\xamarin-forms-googlemaps-master\\GoogleMaps\\GoogleMaps.csproj": {
+    "C:\\Users\\Maria Camila Camacho\\Documents\\GitHub\\Ceres\\googlemaps\\GoogleMaps\\GoogleMaps.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Maria Camila Camacho\\Downloads\\xamarin-forms-googlemaps-master\\GoogleMaps\\GoogleMaps.csproj",
+        "projectUniqueName": "C:\\Users\\Maria Camila Camacho\\Documents\\GitHub\\Ceres\\googlemaps\\GoogleMaps\\GoogleMaps.csproj",
         "projectName": "GoogleMaps",
-        "projectPath": "C:\\Users\\Maria Camila Camacho\\Downloads\\xamarin-forms-googlemaps-master\\GoogleMaps\\GoogleMaps.csproj",
+        "projectPath": "C:\\Users\\Maria Camila Camacho\\Documents\\GitHub\\Ceres\\googlemaps\\GoogleMaps\\GoogleMaps.csproj",
         "packagesPath": "C:\\Users\\Maria Camila Camacho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Maria Camila Camacho\\Downloads\\xamarin-forms-googlemaps-master\\GoogleMaps\\obj\\",
+        "outputPath": "C:\\Users\\Maria Camila Camacho\\Documents\\GitHub\\Ceres\\googlemaps\\GoogleMaps\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

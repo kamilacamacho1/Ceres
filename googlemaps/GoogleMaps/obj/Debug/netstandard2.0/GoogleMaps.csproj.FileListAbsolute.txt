@@ -12,3 +12,17 @@ C:\Users\Maria Camila Camacho\Downloads\xamarin-forms-googlemaps-master\GoogleMa
 C:\Users\Maria Camila Camacho\Downloads\xamarin-forms-googlemaps-master\GoogleMaps\obj\Debug\netstandard2.0\GoogleMaps.pdb
 C:\Users\Maria Camila Camacho\Downloads\xamarin-forms-googlemaps-master\GoogleMaps\obj\Debug\netstandard2.0\GoogleMaps.csproj.CoreCompileInputs.cache
 C:\Users\Maria Camila Camacho\Downloads\xamarin-forms-googlemaps-master\GoogleMaps\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Maria Camila Camacho\Documents\GitHub\Ceres\googlemaps\GoogleMaps\bin\Debug\netstandard2.0\GoogleMaps.deps.json
+C:\Users\Maria Camila Camacho\Documents\GitHub\Ceres\googlemaps\GoogleMaps\bin\Debug\netstandard2.0\GoogleMaps.dll
+C:\Users\Maria Camila Camacho\Documents\GitHub\Ceres\googlemaps\GoogleMaps\bin\Debug\netstandard2.0\ref\GoogleMaps.dll
+C:\Users\Maria Camila Camacho\Documents\GitHub\Ceres\googlemaps\GoogleMaps\bin\Debug\netstandard2.0\GoogleMaps.pdb
+C:\Users\Maria Camila Camacho\Documents\GitHub\Ceres\googlemaps\GoogleMaps\obj\Debug\netstandard2.0\GoogleMaps.csprojAssemblyReference.cache
+C:\Users\Maria Camila Camacho\Documents\GitHub\Ceres\googlemaps\GoogleMaps\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Maria Camila Camacho\Documents\GitHub\Ceres\googlemaps\GoogleMaps\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Maria Camila Camacho\Documents\GitHub\Ceres\googlemaps\GoogleMaps\obj\Debug\netstandard2.0\GoogleMaps.AssemblyInfoInputs.cache
+C:\Users\Maria Camila Camacho\Documents\GitHub\Ceres\googlemaps\GoogleMaps\obj\Debug\netstandard2.0\GoogleMaps.AssemblyInfo.cs
+C:\Users\Maria Camila Camacho\Documents\GitHub\Ceres\googlemaps\GoogleMaps\obj\Debug\netstandard2.0\GoogleMaps.csproj.CoreCompileInputs.cache
+C:\Users\Maria Camila Camacho\Documents\GitHub\Ceres\googlemaps\GoogleMaps\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Maria Camila Camacho\Documents\GitHub\Ceres\googlemaps\GoogleMaps\obj\Debug\netstandard2.0\GoogleMaps.dll
+C:\Users\Maria Camila Camacho\Documents\GitHub\Ceres\googlemaps\GoogleMaps\obj\Debug\netstandard2.0\ref\GoogleMaps.dll
+C:\Users\Maria Camila Camacho\Documents\GitHub\Ceres\googlemaps\GoogleMaps\obj\Debug\netstandard2.0\GoogleMaps.pdb

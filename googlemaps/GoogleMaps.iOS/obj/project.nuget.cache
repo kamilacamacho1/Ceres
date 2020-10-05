@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5USzmQpBkTjC/repqvetqrV617Rx1z/izqvRETL8zTd8gwDraKsO2qpDkTgXrpC2NHAVcYme344WyUiJs3s6Hg==",
+  "dgSpecHash": "PJ+s5qhpH/YBno7ZHWCy8nRAgjiklBE4MYK+afZKooi1+aQAhoDVqyootJ6JFTnQVZe8LhsZIftWDjIRhX1Dpw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Maria Camila Camacho\\Downloads\\xamarin-forms-googlemaps-master\\GoogleMaps.iOS\\GoogleMaps.iOS.csproj",
+  "projectFilePath": "C:\\Users\\Maria Camila Camacho\\Documents\\GitHub\\Ceres\\googlemaps\\GoogleMaps.iOS\\GoogleMaps.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Maria Camila Camacho\\.nuget\\packages\\epplus\\5.3.2\\epplus.5.3.2.nupkg.sha512",
     "C:\\Users\\Maria Camila Camacho\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",

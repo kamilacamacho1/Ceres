@@ -60,14 +60,17 @@ namespace GoogleMaps
 
         private void GenerateAPinMorsa()
         {
-            string lB = Locateb("Morsa");
-            string[] split = lB.Split('/');
-            var pins = new List<Pin>
+            List<ConexionData.LocateP> lB = Locateb("Morsa");
+            var pins = new List<Pin>();
+            foreach (var item in lB)
             {
+                pins = new List<Pin>
+                {
 
+                    new Pin { Type = PinType.Place, Label = "Morsa", Position = new Position(Convert.ToDouble(item.lat), Convert.ToDouble(item.lon))  },
+                };
 
-                new Pin { Type = PinType.Place, Label = "Morsa", Position = new Position(Convert.ToDouble(split[0]), Convert.ToDouble(split[1]))  },
-            };
+            }
             foreach (var pin in pins)
             {
                 // We can use FromBundle, FromStream or FromView
@@ -77,14 +80,19 @@ namespace GoogleMaps
         }
         private void GenerateAPinGansoC()
         {
-            string lB = Locateb("GansoCareto");
-            string[] split = lB.Split('/');
-            var pins = new List<Pin>
+            List<ConexionData.LocateP> lB = Locateb("GansoCareto");
+            var pins = new List<Pin>();
+            
+            foreach (var item in lB)
             {
+                pins = new List<Pin>
+                {
 
 
-                new Pin { Type = PinType.Place, Label = "Ganso Careto", Position = new Position(Convert.ToDouble(split[0]), Convert.ToDouble(split[1]))  },
-            };
+                    new Pin { Type = PinType.Place, Label = "Ganso Careto", Position = new Position(Convert.ToDouble(item.lat), Convert.ToDouble(item.lon))  },
+                };
+            }
+            
             foreach (var pin in pins)
             {
                 // We can use FromBundle, FromStream or FromView
@@ -158,11 +166,12 @@ namespace GoogleMaps
             }
         }
 
-
-        private string Locateb(string animal)
+        
+        private List<ConexionData.LocateP> Locateb(string animal)
         {
             ConexionData cd = new ConexionData();
-            return cd.read_file(animal);
+            List<ConexionData.LocateP> lc = cd.read_file(animal);
+            return lc;
         }
     }
 }

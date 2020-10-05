@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dA9TPu2B6Mp4VcVxEWNJceBS60KT2maJEOEatwBJM2fXJaDTlIMmRPATpKQrDXusM7/f61nihk6FrtgfOp4POA==",
+  "dgSpecHash": "UsZHTWktVrpXYU04vBXRgrBl6eePEdCq/nlOh46WApEG4KGZiVrYkM3QHwzd+cocAk4vN3hiJm/nKE7obF3xng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Maria Camila Camacho\\Downloads\\xamarin-forms-googlemaps-master\\GoogleMaps.Android\\GoogleMaps.Android.csproj",
+  "projectFilePath": "C:\\Users\\Maria Camila Camacho\\Documents\\GitHub\\Ceres\\googlemaps\\GoogleMaps.Android\\GoogleMaps.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Maria Camila Camacho\\.nuget\\packages\\epplus\\5.3.2\\epplus.5.3.2.nupkg.sha512",
     "C:\\Users\\Maria Camila Camacho\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",

@@ -19,7 +19,7 @@ namespace GoogleMaps.Method
             public string lon { get; set; }
         }
         
-        public string read_file(string animal)
+        public List<LocateP> read_file(string animal)
         {
             List<LocateP> locate ;
             string url = "";
@@ -41,7 +41,7 @@ namespace GoogleMaps.Method
                 locate = JsonConvert.DeserializeObject<List<LocateP>>(json);
                 var lat = locate;
             }
-            return locate[0].lat + "/" + locate[0].lon;
+            return locate;
         }
     }
 }

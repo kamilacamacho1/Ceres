@@ -18,7 +18,7 @@
                       VerticalOptions="FillAndExpand">
             </maps:Map>
             <Button Grid.Row="0" 
-                    Text="Personajes" 
+                    Text="Rescatar animal" 
                     BorderColor="#2b3c3c" 
                     BorderWidth="1" 
                     FontAttributes="Bold"
